@@ -1,10 +1,11 @@
 {
-  "name": "snippet",
+  "name": "message_broker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "build": "nodemon index.js",
     "start": "node index.js",
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -4,8 +4,8 @@ comments/node_modules
 snippet/node_modules
 comments/.env
 snippet/.env
-
-
+message_broker/node_modules
+message_broke/.env
 .env
 **/.env
 logs
